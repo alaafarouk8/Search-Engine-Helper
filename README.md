@@ -11,7 +11,7 @@ a given query in form of a sentence or a question.
 search results that contain all the words of the query.
 
 # Example: 
-Enter your query: sunlight energy nutrients
+Enter your query: sunlight energy nutrients.
 Output File:
 Search Results Found = 2
 
