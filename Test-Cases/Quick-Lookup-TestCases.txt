@@ -1,0 +1,20 @@
+Query: Energy
+Search Results Found = 101
+
+Query: plants animals
+Search Results Found = 157
+
+Query: food chain
+Search Results Found = 17
+
+Query: kinetic energy
+Search Results Found = 62
+
+Query: photosynthesis
+Search Results Found = 65
+
+Query: carbon dioxide
+Search Results Found = 36
+
+Query: sunlight energy nutrients
+Search Results Found = 2
